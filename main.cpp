@@ -2,6 +2,7 @@
 #include "Stack.h"
 
 void branch1() {}
+void branch2() {}
 
 void prnMenu(){
 	cout<<"*******************************************"<<endl;
